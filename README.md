@@ -27,7 +27,7 @@ Model	MAE	R² Score
 📁 How to Use
 	1.	Clone the repo:
 
-git clone https://github.com/yourusername/rainfall-prediction-model.git
+git clone https://github.com/elhayatusman/rainfall-prediction-model.git
 
 	2.	Navigate to the project folder and install dependencies:
 
